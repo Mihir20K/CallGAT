@@ -58,3 +58,7 @@ This helps in generating the 768 dimensional text embeddings using the FinBERT.
 
 ### Notebook Execution
 Import the files to the notebook and run the notebook
+
+## References
+
+Sawhney, R., Khanna, P., Aggarwal, A., Jain, T., Mathur, P., & Shah, R. (2020). VolTAGE: Volatility forecasting via text-audio fusion with graph convolution networks for earnings calls. In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), pages 8001-8013.
